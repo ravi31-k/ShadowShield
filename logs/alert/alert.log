@@ -1,0 +1,2 @@
+2025-03-19 14:18:00.199123 - [ALERT] Suspicious Packet: 172.16.48.135:57825 --> 34.117.59.81:443 | Protocol: TCP | Location: Unknown -> US | Details: Suspicious payload detected: (?:\x00\x00\x00\x00\x00\x00\x00\x00)
+2025-03-19 14:24:24.919104 - [ALERT] Suspicious Packet: 172.16.48.135:58033 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC) | Details: Suspicious payload detected: (?:\x00\x00\x00\x00\x00\x00\x00\x00)
