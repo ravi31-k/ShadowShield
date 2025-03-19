@@ -35,3 +35,202 @@
 [2025-03-19 14:46:34.931296] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
 [2025-03-19 14:46:35.231765] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
 [2025-03-19 14:46:35.544859] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:04.039900] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:04.373091] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:04.686844] [ALLOWED] [ALLOWED] 172.16.48.135:60908 --> 8.8.8.8:53 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 15:10:05.002547] [ALLOWED] [ALLOWED] 8.8.8.8:53 --> 172.16.48.135:60908 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:05.316639] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:05.617072] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:06.023815] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:06.397770] [ALERT] [ALERT] Suspicious Packet: 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC) | Details: Suspicious payload detected: (?:\x00\x00\x00\x00\x00\x00\x00\x00)
+[2025-03-19 15:10:06.687601] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:07.026510] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:07.438704] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:07.835346] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:08.178224] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:08.501905] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:08.871901] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:09.180281] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:09.488737] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 172.16.48.135:52630 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:09.831609] [ALLOWED] [ALLOWED] 172.16.48.135:52630 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:10.193414] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:10.612220] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:11.023852] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:11.430377] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:11.860394] [ALLOWED] [ALLOWED] 172.16.48.135:60637 --> 142.250.194.174:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:12.242366] [ALLOWED] [ALLOWED] 142.250.194.174:443 --> 172.16.48.135:60637 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:12.661231] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:12.963409] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:13.282240] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59957 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:13.567583] [ALLOWED] [ALLOWED] 172.16.48.135:59957 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:13.931320] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:14.238989] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:14.594086] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:15.017452] [ALERT] [ALERT] Suspicious Packet: 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC) | Details: Suspicious payload detected: (?:\x00\x00\x00\x00\x00\x00\x00\x00)
+[2025-03-19 15:10:15.415846] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:15.806284] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:16.118015] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:16.450484] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:16.741910] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:17.153870] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:17.576167] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:17.993325] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:18.384281] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:18.401562] [ALLOWED] [ALLOWED] 172.16.49.242:5353 --> 224.0.0.251:5353 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:10:18.790777] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:19.181101] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:19.498240] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:19.958315] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:20.457936] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59958 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:20.773016] [ALLOWED] [ALLOWED] 172.16.48.135:59958 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:21.151229] [ALLOWED] [ALLOWED] 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:21.447061] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59959 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:21.788404] [ALLOWED] [ALLOWED] 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:22.188103] [ALERT] [ALERT] Suspicious Packet: 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC) | Details: Suspicious payload detected: (?:\x00\x00\x00\x00\x00\x00\x00\x00)
+[2025-03-19 15:10:23.304237] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59959 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:23.622199] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59959 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:23.935009] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59959 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:24.333054] [ALLOWED] [ALLOWED] 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:24.632249] [ALLOWED] [ALLOWED] 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:25.049127] [ALLOWED] [ALLOWED] 172.16.48.135:59959 --> 34.117.59.81:443 | Protocol: TCP | Location: Private IP -> Kansas City, Missouri, US (AS396982 Google LLC)
+[2025-03-19 15:10:25.460774] [ALLOWED] [ALLOWED] 34.117.59.81:443 --> 172.16.48.135:59959 | Protocol: TCP | Location: Kansas City, Missouri, US (AS396982 Google LLC) -> Private IP
+[2025-03-19 15:10:25.820058] [ALLOWED] [ALLOWED] 172.172.255.217:443 --> 172.16.48.135:49412 | Protocol: TCP | Location: Sterling, Virginia, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:10:25.839762] [ALLOWED] [ALLOWED] 172.16.7.119:5353 --> 224.0.0.251:5353 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:10:25.846054] [ALLOWED] [ALLOWED] 172.16.7.119:5353 --> 224.0.0.251:5353 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:10:26.180418] [ALLOWED] [ALLOWED] 172.16.48.135:49412 --> 172.172.255.217:443 | Protocol: TCP | Location: Private IP -> Sterling, Virginia, US (AS8075 Microsoft Corporation)
+[2025-03-19 15:10:26.592573] [ALLOWED] [ALLOWED] 172.172.255.217:443 --> 172.16.48.135:49412 | Protocol: TCP | Location: Sterling, Virginia, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:10:26.997753] [ALLOWED] [ALLOWED] 172.16.48.135:56832 --> 216.58.200.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:10:27.408448] [ALLOWED] [ALLOWED] 216.58.200.170:443 --> 172.16.48.135:56832 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:10:27.717562] [ALLOWED] [ALLOWED] 172.16.48.135:59733 --> 57.144.177.32:443 | Protocol: TCP | Location: Private IP -> Mumbai, Maharashtra, IN (AS32934 Facebook, Inc.)
+[2025-03-19 15:10:28.037192] [ALLOWED] [ALLOWED] 172.16.48.135:59734 --> 57.144.147.32:443 | Protocol: TCP | Location: Private IP -> Delhi, Delhi, IN (AS32934 Facebook, Inc.)
+[2025-03-19 15:19:40.550551] [ALLOWED] [ALLOWED] 192.168.0.111:64418 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:40.558843] [ALLOWED] [ALLOWED] 192.168.0.111:55963 --> 192.168.0.1:53 | Protocol: UDP | Location: Private IP -> Private IP
+[2025-03-19 15:19:40.904946] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:64418 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:40.912143] [ALLOWED] [ALLOWED] 172.16.7.109:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.914899] [ALLOWED] [ALLOWED] 192.168.160.58:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.921380] [ALLOWED] [ALLOWED] 192.168.160.58:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.927139] [ALLOWED] [ALLOWED] 172.16.0.185:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.927139] [ALLOWED] [ALLOWED] 172.16.0.185:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.940177] [ALLOWED] [ALLOWED] 172.16.0.190:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.941250] [ALLOWED] [ALLOWED] 172.16.0.190:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.941250] [ALLOWED] [ALLOWED] 172.16.0.174:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.956170] [ALLOWED] [ALLOWED] 172.16.0.174:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.962809] [ALLOWED] [ALLOWED] 172.16.0.137:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.971453] [ALLOWED] [ALLOWED] 172.16.3.150:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.975348] [ALLOWED] [ALLOWED] 172.16.0.140:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.989565] [ALLOWED] [ALLOWED] 172.16.0.149:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:40.989565] [ALLOWED] [ALLOWED] 172.16.0.149:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.000344] [ALLOWED] [ALLOWED] 172.16.0.148:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.017095] [ALLOWED] [ALLOWED] 172.16.0.178:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.018473] [ALLOWED] [ALLOWED] 172.16.0.178:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.028718] [ALLOWED] [ALLOWED] 172.16.0.147:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.041802] [ALLOWED] [ALLOWED] 172.16.0.183:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.049652] [ALLOWED] [ALLOWED] 172.16.0.183:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.057788] [ALLOWED] [ALLOWED] 172.16.0.145:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.057788] [ALLOWED] [ALLOWED] 172.16.0.145:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.068440] [ALLOWED] [ALLOWED] 172.16.3.83:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.074282] [ALLOWED] [ALLOWED] 172.16.3.83:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.082411] [ALLOWED] [ALLOWED] 172.16.0.128:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.093764] [ALLOWED] [ALLOWED] 172.16.0.128:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.107152] [ALLOWED] [ALLOWED] 172.16.0.180:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.110795] [ALLOWED] [ALLOWED] 172.16.0.180:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.161272] [ALLOWED] [ALLOWED] 172.16.0.177:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.169782] [ALLOWED] [ALLOWED] 172.16.14.94:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.173170] [ALLOWED] [ALLOWED] 172.16.14.94:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.216858] [ALLOWED] [ALLOWED] 172.16.14.26:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.266173] [ALLOWED] [ALLOWED] 172.16.14.26:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.266173] [ALLOWED] [ALLOWED] 172.16.14.111:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.270029] [ALLOWED] [ALLOWED] 172.16.14.111:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.273926] [ALLOWED] [ALLOWED] 172.16.14.118:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.276300] [ALLOWED] [ALLOWED] 172.16.14.118:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.280419] [ALLOWED] [ALLOWED] 172.16.14.116:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.281820] [ALLOWED] [ALLOWED] 172.16.14.116:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.310392] [ALLOWED] [ALLOWED] 172.16.14.107:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.311702] [ALLOWED] [ALLOWED] 172.16.14.107:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.316532] [ALLOWED] [ALLOWED] 172.16.14.113:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.316532] [ALLOWED] [ALLOWED] 172.16.14.113:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.318689] [ALLOWED] [ALLOWED] 172.16.14.34:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.319839] [ALLOWED] [ALLOWED] 172.16.14.34:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.321143] [ALLOWED] [ALLOWED] 172.16.14.96:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.323224] [ALLOWED] [ALLOWED] 172.16.14.96:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.323224] [ALLOWED] [ALLOWED] 192.168.161.204:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.329094] [ALLOWED] [ALLOWED] 192.168.161.204:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.330258] [ALLOWED] [ALLOWED] 172.16.14.109:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.333797] [ALLOWED] [ALLOWED] 172.16.14.109:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.335031] [ALLOWED] [ALLOWED] 172.16.14.132:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.335031] [ALLOWED] [ALLOWED] 172.16.14.132:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.336566] [ALLOWED] [ALLOWED] 172.16.14.75:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.339074] [ALLOWED] [ALLOWED] 172.16.14.119:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.339794] [ALLOWED] [ALLOWED] 172.16.14.119:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.342814] [ALLOWED] [ALLOWED] 172.16.14.83:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.342814] [ALLOWED] [ALLOWED] 172.16.14.83:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.348184] [ALLOWED] [ALLOWED] 172.16.14.95:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.350363] [ALLOWED] [ALLOWED] 172.16.14.23:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.353866] [ALLOWED] [ALLOWED] 172.16.14.23:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.356539] [ALLOWED] [ALLOWED] 172.16.14.50:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.356539] [ALLOWED] [ALLOWED] 172.16.14.50:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.356539] [ALLOWED] [ALLOWED] 172.16.14.131:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.364047] [ALLOWED] [ALLOWED] 172.16.14.131:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.367216] [ALLOWED] [ALLOWED] 172.16.14.124:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.367216] [ALLOWED] [ALLOWED] 172.16.14.124:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.369777] [ALLOWED] [ALLOWED] 172.16.14.120:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.371783] [ALLOWED] [ALLOWED] 172.16.14.120:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.376623] [ALLOWED] [ALLOWED] 172.16.14.22:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.379256] [ALLOWED] [ALLOWED] 172.16.14.102:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.379256] [ALLOWED] [ALLOWED] 172.16.14.108:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.384828] [ALLOWED] [ALLOWED] 172.16.14.108:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.385424] [ALLOWED] [ALLOWED] 172.16.14.25:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.387558] [ALLOWED] [ALLOWED] 172.16.14.25:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.389886] [ALLOWED] [ALLOWED] 172.16.14.115:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.389886] [ALLOWED] [ALLOWED] 192.168.161.203:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.389886] [ALLOWED] [ALLOWED] 192.168.161.203:N/A --> 239.255.255.250:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.398945] [ALLOWED] [ALLOWED] 172.16.1.60:62441 --> 239.255.255.250:3702 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.401197] [ALLOWED] [ALLOWED] 192.168.0.111:55963 --> 192.168.0.1:53 | Protocol: UDP | Location: Private IP -> Private IP
+[2025-03-19 15:19:41.401197] [ALLOWED] [ALLOWED] 192.168.0.1:N/A --> 224.0.0.1:N/A | Protocol: Other | Location: Private IP -> Multicast
+[2025-03-19 15:19:41.726590] [ALLOWED] [ALLOWED] 150.171.22.12:443 --> 192.168.0.111:60339 | Protocol: TCP | Location: Redmond, Washington, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:19:42.142488] [ALLOWED] [ALLOWED] 192.168.0.111:60339 --> 150.171.22.12:443 | Protocol: TCP | Location: Private IP -> Redmond, Washington, US (AS8075 Microsoft Corporation)
+[2025-03-19 15:19:42.544541] [ALLOWED] [ALLOWED] 192.168.0.111:60339 --> 150.171.22.12:443 | Protocol: TCP | Location: Private IP -> Redmond, Washington, US (AS8075 Microsoft Corporation)
+[2025-03-19 15:19:42.837482] [ALLOWED] [ALLOWED] 150.171.22.12:443 --> 192.168.0.111:60339 | Protocol: TCP | Location: Redmond, Washington, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:19:43.225453] [ALLOWED] [ALLOWED] 150.171.22.12:443 --> 192.168.0.111:60339 | Protocol: TCP | Location: Redmond, Washington, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:19:43.536254] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:59902 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:43.878182] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:44.183703] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:44.592665] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:45.002757] [ALLOWED] [ALLOWED] 192.168.0.111:59902 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:45.403044] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:45.708916] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:46.141699] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:46.433591] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:46.739941] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:47.084762] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:47.378535] [ALLOWED] [ALLOWED] 192.168.0.111:59902 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:47.667340] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:59902 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:47.980516] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:48.272159] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:48.601447] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:48.923211] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:49.297294] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:49.698456] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:50.118566] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:50.415286] [ALLOWED] [ALLOWED] 192.168.0.111:56100 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:50.836531] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:56100 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:50.836531] [ALLOWED] [ALLOWED] 172.16.14.101:37020 --> 239.255.255.250:37020 | Protocol: UDP | Location: Private IP -> Multicast
+[2025-03-19 15:19:51.223623] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:56100 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:51.524573] [ALLOWED] [ALLOWED] 192.168.0.111:56100 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:51.864453] [ALLOWED] [ALLOWED] 192.168.0.111:56100 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:52.166274] [ALLOWED] [ALLOWED] 192.168.0.111:49417 --> 172.172.255.216:443 | Protocol: TCP | Location: Private IP -> Sterling, Virginia, US (AS8075 Microsoft Corporation)
+[2025-03-19 15:19:52.476293] [ALLOWED] [ALLOWED] 172.172.255.216:443 --> 192.168.0.111:49417 | Protocol: TCP | Location: Sterling, Virginia, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:19:52.766785] [ALLOWED] [ALLOWED] 192.168.0.111:59902 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:53.084134] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:59902 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:53.408378] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:56100 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:53.712222] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:56100 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:54.114836] [ALLOWED] [ALLOWED] 192.168.0.111:56100 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:54.515298] [ALLOWED] [ALLOWED] 192.168.0.111:56100 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:54.831668] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:54.831668] [ALLOWED] [ALLOWED] 192.168.0.111:55963 --> 192.168.0.1:53 | Protocol: UDP | Location: Private IP -> Private IP
+[2025-03-19 15:19:55.246114] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:56100 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:55.665444] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:56.047859] [ALLOWED] [ALLOWED] 172.172.255.216:443 --> 192.168.0.111:49417 | Protocol: TCP | Location: Sterling, Virginia, US (AS8075 Microsoft Corporation) -> Private IP
+[2025-03-19 15:19:56.462874] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 15:19:56.883076] [ALLOWED] [ALLOWED] 142.250.182.170:443 --> 192.168.0.111:52831 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 15:19:57.292642] [ALLOWED] [ALLOWED] 192.168.0.111:52831 --> 142.250.182.170:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)

@@ -5,6 +5,7 @@ import time
 from scapy.all import sniff, IP, TCP, UDP, DNS, Raw, get_if_list, get_if_hwaddr
 from utils import get_geoip_info, show_notification, log_activity, is_suspicious_ip
 from dpi_engine import dpi_packet_callback  # DPI Engine Integration
+from threat_feed import is_ip_threat, is_port_threat, is_domain_threat
 
 # -----------------------------
 # Load Configuration Files
@@ -69,15 +70,15 @@ def restart_npcap():
     except subprocess.CalledProcessError:
         print("[WARNING] Npcap restart failed. Please restart manually if required.")
 
-# -----------------------------
-# Packet Filtering Logic (Updated with DPI Integration)
-# -----------------------------
-def packet_callback(packet):
-    if not packet.haslayer(IP):
-        return  # Ignore non-IP packets
 
+def packet_callback(packet):
+    # Ignore non-IP packets
+    if not packet.haslayer(IP):
+        return  
+
+    # Ignore empty packets with no payload
     if packet.haslayer(Raw) and not packet[Raw].load:
-        return  # Ignore empty packets
+        return  
 
     ip_src = packet[IP].src
     ip_dst = packet[IP].dst
@@ -89,6 +90,15 @@ def packet_callback(packet):
     # GeoIP Location Information
     src_location = get_geoip_info(ip_src)
     dst_location = get_geoip_info(ip_dst)
+
+    # Threat Intelligence Check
+    if is_ip_threat(ip_src) or is_ip_threat(ip_dst):
+        blocked_message = (f"[BLOCKED] Threat detected! {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+                           f"Protocol: {protocol} | Location: {src_location} -> {dst_location}")
+        print(blocked_message)
+        show_notification("Firewall Alert", blocked_message)
+        log_activity("blocked", blocked_message)
+        return  
 
     # DPI Integration - Deep Packet Inspection for Malicious Patterns
     is_suspicious, details = dpi_packet_callback(packet)
@@ -130,6 +140,68 @@ def packet_callback(packet):
                        f"Protocol: {protocol} | Location: {src_location} -> {dst_location}")
     print(allowed_message)
     log_activity("allowed", allowed_message)
+
+# -----------------------------
+# Packet Filtering Logic (Updated with DPI Integration)
+# -----------------------------
+# def packet_callback(packet):
+#     if not packet.haslayer(IP):
+#         return  # Ignore non-IP packets
+
+#     if packet.haslayer(Raw) and not packet[Raw].load:
+#         return  # Ignore empty packets
+
+#     ip_src = packet[IP].src
+#     ip_dst = packet[IP].dst
+#     src_port = packet[TCP].sport if TCP in packet else packet[UDP].sport if UDP in packet else "N/A"
+#     dst_port = packet[TCP].dport if TCP in packet else packet[UDP].dport if UDP in packet else "N/A"
+
+#     protocol = "TCP" if TCP in packet else "UDP" if UDP in packet else "Other"
+
+#     # GeoIP Location Information
+#     src_location = get_geoip_info(ip_src)
+#     dst_location = get_geoip_info(ip_dst)
+
+#     # DPI Integration - Deep Packet Inspection for Malicious Patterns
+#     is_suspicious, details = dpi_packet_callback(packet)
+#     if is_suspicious:
+#         alert_message = (f"[ALERT] Suspicious Packet: {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+#                          f"Protocol: {protocol} | Location: {src_location} -> {dst_location} | Details: {details}")
+#         print(alert_message)
+#         show_notification("Firewall Alert", alert_message)
+#         log_activity("alert", alert_message)
+#         return  
+
+#     # Blocklist Checking
+#     if ip_src in blocklist or ip_dst in blocklist:
+#         blocked_message = (f"[BLOCKED] {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+#                            f"Protocol: {protocol} | Location: {src_location} -> {dst_location} (Blocklist Match)")
+#         print(blocked_message)
+#         log_activity("blocked", blocked_message)
+#         return  
+
+#     # Firewall Rules Processing
+#     for rule in firewall_rules:
+#         conditions = rule["conditions"]
+
+#         if "ip" in conditions and (ip_src in conditions["ip"] or ip_dst in conditions["ip"]):
+#             if rule["action"] == "block":
+#                 blocked_message = (f"[BLOCKED] {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+#                                    f"Rule: {rule['rule_name']} | Location: {src_location} -> {dst_location}")
+#                 print(blocked_message)
+#                 log_activity("blocked", blocked_message)
+#                 return
+#             elif rule["action"] == "alert":
+#                 alert_message = (f"[ALERT] {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+#                                  f"Rule: {rule['rule_name']} | Location: {src_location} -> {dst_location}")
+#                 print(alert_message)
+#                 log_activity("alert", alert_message)
+
+#     # Allow Remaining Traffic
+#     allowed_message = (f"[ALLOWED] {ip_src}:{src_port} --> {ip_dst}:{dst_port} | "
+#                        f"Protocol: {protocol} | Location: {src_location} -> {dst_location}")
+#     print(allowed_message)
+#     log_activity("allowed", allowed_message)
 
 # -----------------------------
 # Start Sniffing
