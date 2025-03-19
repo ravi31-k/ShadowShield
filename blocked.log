@@ -1,0 +1,247 @@
+Blocked Port: 172.16.59.198:38547 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.90.114:45534 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.61.200:46266 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.63.31:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.31:52660 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 172.16.63.31:56296 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 172.16.62.36:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.79:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.61.202:37580 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 51.116.253.168:443 -> 172.16.63.134:64876 | Protocol: TCP
+Blocked Port: 172.16.61.204:51323 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.154:35724 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.62.79:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 10.10.91.156:47176 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.90.100:41861 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.90.152:60434 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.61.197:50233 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.181:34208 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.51.40:39803 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.199:59927 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.5:56574 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.157:42088 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 100.29.175.103:443 -> 172.16.63.134:63165 | Protocol: TCP
+Blocked Port: 172.16.62.79:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.134:61625 -> 172.253.118.188:5228 | Protocol: TCP
+Blocked Port: 172.253.118.188:5228 -> 172.16.63.134:61625 | Protocol: TCP
+Blocked Port: 10.10.90.113:52193 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.51.82:52651 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 35.201.74.77:443 -> 172.16.63.134:64847 | Protocol: TCP
+Blocked Port: 172.16.49.160:42599 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.153:55052 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.48.1:67 -> 255.255.255.255:68 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:57865 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:63774 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 172.16.62.246:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.51.52:48776 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.34:58647 -> 239.255.255.250:1900 | Protocol: UDP
+Blocked Port: 10.10.90.151:37437 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.91.155:48719 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.51.50:58276 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.60.197:42944 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 100.29.175.103:443 -> 172.16.63.134:63166 | Protocol: TCP
+Blocked Port: 172.16.62.187:39613 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.90.114:45534 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.61.200:45955 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.48.1:67 -> 255.255.255.255:68 | Protocol: UDP
+Blocked Port: 172.16.61.202:43876 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:57313 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.59.198:50065 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.34:58647 -> 239.255.255.250:1900 | Protocol: UDP
+Blocked Port: 172.16.62.200:51650 -> 239.255.255.250:1900 | Protocol: UDP
+Blocked Port: 104.97.76.219:443 -> 172.16.63.134:64827 | Protocol: TCP
+Blocked Port: 104.97.76.219:443 -> 172.16.63.134:64827 | Protocol: TCP
+Blocked Port: 10.10.91.154:35724 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 100.29.175.103:443 -> 172.16.63.134:63166 | Protocol: TCP
+Blocked Port: 172.16.51.50:36249 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.60.197:41204 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.51.52:42314 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.213:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.61.200:39525 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.59.198:41428 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 8.8.8.8:443 -> 172.16.63.134:52844 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 10.10.91.157:53164 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 142.250.192.195:443 -> 172.16.63.134:53089 | Protocol: UDP
+Blocked Port: 172.16.62.187:46467 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.213:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 10.10.90.113:52193 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.61.202:44841 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.153:50151 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.51.40:43502 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.204:49762 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.49.160:34244 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.199:39444 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.62.5:46230 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.197:59388 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.90.151:36243 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.62.181:49293 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.155:42364 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.48.1:67 -> 255.255.255.255:68 | Protocol: UDP
+Blocked Port: 172.16.51.147:46218 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.90.114:45534 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.63.134:61737 -> 8.8.8.8:53 | Protocol: UDP
+Blocked Port: 8.8.8.8:53 -> 172.16.63.134:61737 | Protocol: UDP
+Blocked Port: 103.47.13.147:80 -> 172.16.63.134:64930 | Protocol: TCP
+Blocked Port: 172.16.51.82:56831 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 103.47.13.147:80 -> 172.16.63.134:64930 | Protocol: TCP
+Blocked Port: 103.47.13.147:80 -> 172.16.63.134:64930 | Protocol: TCP
+Blocked Port: 103.47.13.147:80 -> 172.16.63.134:64930 | Protocol: TCP
+Blocked Port: 103.47.13.147:80 -> 172.16.63.134:64930 | Protocol: TCP
+Blocked Port: 34.120.52.64:443 -> 172.16.63.134:61520 | Protocol: TCP
+Blocked Port: 34.120.52.64:443 -> 172.16.63.134:61520 | Protocol: TCP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 10.10.90.100:41861 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.91.154:56930 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 10.10.91.156:49431 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.90.152:51220 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.51.50:58343 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.61.200:33737 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.59.198:33564 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.91.157:53164 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.60.197:60480 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.62.187:51111 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 172.16.63.50:137 -> 172.16.63.255:137 | Protocol: UDP
+Blocked Port: 10.10.90.113:52193 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 10.10.91.153:50151 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.63.134:62746 -> 142.251.175.188:5228 | Protocol: TCP
+Blocked Port: 142.251.175.188:5228 -> 172.16.63.134:62746 | Protocol: TCP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.61.202:38336 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.51.40:38047 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.204:41352 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.49.160:36046 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.199:48466 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.48.1:67 -> 255.255.255.255:68 | Protocol: UDP
+Blocked Port: 172.16.62.200:52438 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.200:60489 -> 224.0.0.252:5355 | Protocol: UDP
+Blocked Port: 100.29.175.103:443 -> 172.16.63.134:63165 | Protocol: TCP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.62.5:39408 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 172.16.61.197:54517 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked Port: 10.10.90.151:36243 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 10.10.91.155:42364 -> 255.255.255.255:29810 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 172.16.63.50:5353 -> 224.0.0.251:5353 | Protocol: UDP
+Blocked Port: 0.0.0.0:68 -> 255.255.255.255:67 | Protocol: UDP
+Blocked Port: 172.16.51.147:44431 -> 255.255.255.255:10001 | Protocol: UDP
+Blocked (DoS Detected): 172.16.63.134:51774 -> 142.250.192.238:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50319 -> 8.8.8.8:53 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:51774 -> 142.250.192.238:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49405 -> 54.148.181.121:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:51774 -> 142.250.192.238:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49406 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:51774 -> 142.250.192.238:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49407 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:51774 -> 142.250.192.238:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50247 -> 8.8.4.4:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50247 -> 8.8.4.4:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50247 -> 8.8.4.4:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50247 -> 8.8.4.4:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49671 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:50247 -> 8.8.4.4:443 | Protocol: UDP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49673 -> 54.192.142.111:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49673 -> 54.192.142.111:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49673 -> 54.192.142.111:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49673 -> 54.192.142.111:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49672 -> 34.117.59.81:443 | Protocol: TCP | Location: None, None, None (None)
+Blocked (DoS Detected): 172.16.63.134:49673 -> 54.192.142.111:443 | Protocol: TCP | Location: None, None, None (None)

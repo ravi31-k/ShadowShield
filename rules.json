@@ -1,0 +1,6 @@
+{
+    "block_ips": ["192.168.1.200", "203.0.113.45"],
+    "allow_ports": [22, 80, 443],
+    "block_ports": [23, 3389],
+    "protocols": ["TCP", "UDP"]
+}
