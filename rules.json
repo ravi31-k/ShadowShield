@@ -1,6 +1,17 @@
 {
-    "block_ips": ["192.168.1.200", "203.0.113.45"],
-    "allow_ports": [22, 80, 443],
-    "block_ports": [23, 3389],
-    "protocols": ["TCP", "UDP"]
+    "npcap_service_name": "npcap",
+    "geoip_api_token": "1f20023fd681f2",
+    "alert_conditions": {
+        "block_countries": ["China", "Russia", "North Korea"],
+        "suspicious_ports": [22, 3389, 4444, 1337],
+        "log_all_traffic": true
+    },
+    "notification_settings": {
+        "enabled": true,
+        "timeout": 10
+    },
+    "log_settings": {
+        "log_directory": "./logs",
+        "log_format": "%Y-%m-%d %H:%M:%S"
+    }
 }
