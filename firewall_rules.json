@@ -1,0 +1,68 @@
+{
+    "rules": [
+        {
+            "rule_name": "Block Suspicious IPs",
+            "action": "block",
+            "conditions": {
+                "ip": ["202.54.1.2", "45.33.32.156", "103.21.244.0/22", "185.220.101.0/24"],
+                "port": ["22", "3389", "445", "135"],
+                "protocol": ["TCP", "UDP"]
+            }
+        },
+        {
+            "rule_name": "Allow Trusted IPs",
+            "action": "allow",
+            "conditions": {
+                "ip": ["8.8.8.8", "1.1.1.1", "192.168.1.0/24"],
+                "port": ["53", "443", "80"],
+                "protocol": ["UDP", "TCP"]
+            }
+        },
+        {
+            "rule_name": "Block Uncommon Port Combinations",
+            "action": "block",
+            "conditions": {
+                "port_combinations": [
+                    ["135", "445"],
+                    ["23", "21"],
+                    ["1433", "3389"],
+                    ["25", "587"]
+                ]
+            }
+        },
+        {
+            "rule_name": "Block Traffic from High-Risk Countries",
+            "action": "block",
+            "conditions": {
+                "geo_location": ["China", "Russia", "North Korea", "Iran"]
+            }
+        },
+        {
+            "rule_name": "Block Potential DDoS Traffic",
+            "action": "block",
+            "conditions": {
+                "packet_rate_limit": 1000,
+                "time_window_seconds": 10
+            }
+        },
+        {
+            "rule_name": "Detect Malicious DNS Queries",
+            "action": "alert",
+            "conditions": {
+                "dns_patterns": ["*.onion", "*.xyz", "*.darkweb"]
+            }
+        },
+        {
+            "rule_name": "Block Known Malware Patterns",
+            "action": "block",
+            "conditions": {
+                "dpi_patterns": [
+                    "MZ....PE..",
+                    "eval(base64_decode(",
+                    "exec('wget ",
+                    "powershell.exe -enc "
+                ]
+            }
+        }
+    ]
+}

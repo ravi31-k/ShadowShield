@@ -1,0 +1,17 @@
+{
+    "blocklist": [
+        "45.83.64.1",
+        "185.220.101.0/24",
+        "maliciousdomain.com",
+        "phishing-site.net",
+        "badactor.io",
+        "45.33.32.156",
+        "104.244.42.0/24",    
+        "185.100.86.128/25",  
+        "darkmarket.com",
+        "coinstealer.xyz",
+        "*.torproxy.net",
+        "*.onion",  
+        "ransomwarehost.com"
+    ]
+}
