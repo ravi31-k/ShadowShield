@@ -1,0 +1,37 @@
+[2025-03-19 14:46:22.642434] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:22.950376] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:23.264267] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:23.604374] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:23.906433] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:24.275268] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:24.652477] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:24.994855] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:25.291385] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:25.716475] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:26.118290] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:26.534578] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:26.930713] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:27.354573] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:27.670260] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:28.077440] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:28.480204] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:28.890700] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:29.312206] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:29.739553] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:30.122564] [ALLOWED] [ALLOWED] 8.8.8.8:443 --> 172.16.48.135:62140 | Protocol: UDP | Location: Mountain View, California, US (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:30.531482] [ALLOWED] [ALLOWED] 172.16.48.135:62140 --> 8.8.8.8:443 | Protocol: UDP | Location: Private IP -> Mountain View, California, US (AS15169 Google LLC)
+[2025-03-19 14:46:30.935793] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:31.240742] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:31.552900] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:31.858391] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:32.157446] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:32.498246] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:32.789800] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:33.191149] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:33.598691] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:33.893814] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:34.213516] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:34.555514] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:34.931296] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
+[2025-03-19 14:46:35.231765] [ALLOWED] [ALLOWED] 142.250.194.131:443 --> 172.16.48.135:53185 | Protocol: UDP | Location: Delhi, Delhi, IN (AS15169 Google LLC) -> Private IP
+[2025-03-19 14:46:35.544859] [ALLOWED] [ALLOWED] 172.16.48.135:53185 --> 142.250.194.131:443 | Protocol: UDP | Location: Private IP -> Delhi, Delhi, IN (AS15169 Google LLC)
