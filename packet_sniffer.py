@@ -31,7 +31,7 @@ def show_notification(title, message):
 
 # GeoIP Lookup Function with Retry Logic
 def get_geoip_info(ip_address):
-    API_URL = f"https://ipinfo.io/{ip_address}/json?token=1f20023fd681f2"
+    API_URL = f"https://ipinfo.io/{ip_address}/json?token={YOUR__API}"
     
     for attempt in range(3):
         try:
